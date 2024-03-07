@@ -67,7 +67,7 @@ docker run --name chatgpt-on-wechat-feishu -d \
 chatgpt-on-wechat:1.5.7.1
 ```
 
-### 飞书
+### 企业微信
 
 - config.json
 
