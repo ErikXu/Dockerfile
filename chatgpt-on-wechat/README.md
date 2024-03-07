@@ -19,7 +19,7 @@ docker build -t chatgpt-on-wechat:1.5.7.1 -f ./Dockerfile .
   "feishu_app_id": "",
   "feishu_app_secret": "",
   "feishu_token": "",
-  "feishu_bot_name": ""
+  "feishu_bot_name": "",
   "model": "gpt-4",
   "open_ai_api_key": "",
   "text_to_image": "dall-e-2",
